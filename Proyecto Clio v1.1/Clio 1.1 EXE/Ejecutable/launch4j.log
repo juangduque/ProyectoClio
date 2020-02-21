@@ -1,0 +1,14 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\juan-\Documents\GIT proyecto\ProyectoClio\Proyecto Clio v1.1\Clio 1.1 EXE\Ejecutable\Clio v1.1.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\juan-\Documents\GIT proyecto\ProyectoClio\Proyecto Clio v1.1\Clio 1.1 EXE\Ejecutable\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	C:\Program Files\Java\jre1.8.0_111
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-jar "C:\Users\juan-\Documents\GIT proyecto\ProyectoClio\Proyecto Clio v1.1\Clio 1.1 EXE\Ejecutable\Clio v1.1.exe"
+Args length:	114/32768 chars
+Exit code:	0
