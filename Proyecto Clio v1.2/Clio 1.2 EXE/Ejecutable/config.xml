@@ -3,7 +3,7 @@
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
   <jar>C:\Users\juan-\Documents\GIT proyecto\ProyectoClio\Proyecto Clio v1.2\Clio 1.2 EXE\Java\ProyectoClio_v1_2.jar</jar>
-  <outfile>C:\Users\juan-\Documents\GIT proyecto\ProyectoClio\Proyecto Clio v1.2\Clio 1.2 EXE\Ejecutable\clio.exe</outfile>
+  <outfile>C:\Users\juan-\Documents\GIT proyecto\ProyectoClio\Proyecto Clio v1.2\Clio 1.2 EXE\Ejecutable\Proyecto clio1.2.1.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
