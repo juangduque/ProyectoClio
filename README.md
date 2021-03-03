@@ -15,4 +15,5 @@ The application is developed with Java and MySQL. In java the application logic 
 - Data: In this layer the connection to the database is made and it is in charge of doing the CRUD operations with SQL queries.
 - Print: In charge of connecting with the printer and printing commands.
 - Interface: Show the data in the screen and interact with the user.
+
 MySQL is implemented by PHPmyAdmin locally with XAMPP. It was verified that the connection credentials between the database and the application were properly provided, and that the names of the tables for the queries are consistent. 
