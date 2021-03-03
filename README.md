@@ -1,4 +1,4 @@
-# Proyecto Clio
+# Clio Project
 Clio is a CRUD-type application that supports the management of home orders for the company "Cubanos", which is a fast food restaurant.
 This application solves the problem of having to request the necessary data to take a home order every time a customer calls to place an order. The necessary data are: 
 - Name.
@@ -16,4 +16,9 @@ The application is developed with Java and MySQL. In java the application logic 
 - Print: In charge of connecting with the printer and printing commands.
 - Interface: Show the data in the screen and interact with the user.
 
-MySQL is implemented by PHPmyAdmin locally with XAMPP. It was verified that the connection credentials between the database and the application were properly provided, and that the names of the tables for the queries are consistent. 
+MySQL is implemented by PHPmyAdmin locally with XAMPP. It was verified that the connection credentials between the database and the application were properly provided, and that the names of the tables for the queries are consistent.
+
+## The interface
+
+![Captura de pantalla de 2021-03-02 17-28-33](https://user-images.githubusercontent.com/43974127/109732668-9bd48980-7b8b-11eb-9fb2-2bfce295c53d.png)
+
