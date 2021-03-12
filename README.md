@@ -22,3 +22,8 @@ MySQL is implemented by PHPmyAdmin locally with XAMPP. It was verified that the 
 
 ![Captura de pantalla de 2021-03-02 17-28-33](https://user-images.githubusercontent.com/43974127/109732668-9bd48980-7b8b-11eb-9fb2-2bfce295c53d.png)
 
+As you can see, each button presents the ability to do the mentioned CRUD operations and an additional short menu to configure the connection to the database.
+
+## License
+This is an open source initiative under [MIT license](https://opensource.org/licenses/MIT)
+
